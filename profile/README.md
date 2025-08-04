@@ -1,6 +1,6 @@
 # Salamandra Vermilion Systems
 <p align="center">
-  <img src="../assets/Armored Salamandra Vermilion.png" alt="Salamandra Vermilion Systems logo, Guilherme Faura.">
+  <img src="../assets/Armored Salamandra Vermilion.png" width=50% heigth=50% alt="Salamandra Vermilion Systems logo, Guilherme Faura.">
 </p>
 
 <p align="center"><em>Salamandra Vermilion Systems logo, Guilherme Faura.</em></p>
